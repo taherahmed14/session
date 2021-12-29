@@ -1,0 +1,26 @@
+.head{
+    margin-top: 2%;
+}
+form{
+    margin: 4% 0 0 10%;
+    border: 1px solid coral;
+    padding: 5px;
+    width: 80%;
+}
+.checkBox{
+    border: 1px solid red;
+    margin-left: 0%;
+}
+input, select{
+    width: 100px;
+    margin-left: 1%;
+}
+.showAllBtn{
+    margin-left: 1%;
+}
+.filter{
+    margin: 1% 0 0 10%;
+    border: 1px solid coral;
+    padding: 5px;
+    width: 80%;
+}

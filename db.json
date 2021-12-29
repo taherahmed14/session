@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "User 2",
+      "age": "29",
+      "address": "Pune",
+      "salary": "20000",
+      "department": "sales",
+      "martialStatus": "married",
+      "profilePhoto": "",
+      "id": 2
+    },
+    {
+      "username": "User 4",
+      "age": "24",
+      "address": "Pune",
+      "salary": "10000",
+      "department": "sales",
+      "martialStatus": "single",
+      "profilePhoto": "",
+      "id": 4
+    },
+    {
+      "username": "User 5",
+      "age": "32",
+      "address": "Delhi",
+      "salary": "23888",
+      "department": "IT",
+      "martialStatus": "single",
+      "profilePhoto": "",
+      "id": 5
+    }
+  ]
+}

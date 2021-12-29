@@ -1,0 +1,15 @@
+table{
+    margin-left: 23%;
+    border: 1px solid coral;
+}
+tr, td{
+    margin-top: 0%;
+    text-align: center;
+    border: 2px solid crimson;
+}
+td{
+    width: 100px;
+}
+.deletBtn{
+    margin-left: 1%;
+}
